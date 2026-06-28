@@ -1,6 +1,7 @@
 {
   "id": "All-in-One-Nuvio",
   "name": "All-in-One-Nuvio",
+  "description": "AllAnime - Anime and Manga content streaming",
   "version": "1.0.0",
   "scrapers": [
     {
